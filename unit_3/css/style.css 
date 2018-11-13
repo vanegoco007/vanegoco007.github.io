@@ -1,0 +1,25 @@
+body {
+    background-color: rgba(20,133,204,.8) ;
+    text-align: left; 
+    background-size: cover; 
+  	color: #fff;
+  	font-family: palatino header;
+
+}
+
+
+h1 { 
+	font-family: palatino body; 
+	font-size:35px;
+	font-weight: 600
+
+}
+
+p { 
+  font-size: 22px;
+   background-color: rgba(20,133,204,.8) ;
+    text-align: left; 
+    background-size: cover; 
+  	color: #fff;
+  	font-family: palatino header;
+}
