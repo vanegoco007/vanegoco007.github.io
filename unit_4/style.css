@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Niramit|PT+Serif');
 
 body {
-    background-color: rgb(242,255,245);
+    background-color: rgb(240,239,255);
     text-align: center; 
     background-size: cover; 
   	color: #000;
@@ -15,15 +15,11 @@ body {
  }
 
 h1 { 
-	text-transform: uppercase;
-  text-align: center; 
-  font-family: 'PT Serif', serif; 
 	font-size:35px;
-  line-height: 1.5em;
-  margin: 2em;
-	font-weight: bold;
-
-
+  font-family: 'PT Serif', serif; 
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center; 
 }
 
 p { 
