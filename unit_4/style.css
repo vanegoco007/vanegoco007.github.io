@@ -1,0 +1,35 @@
+@import url(https://fonts.googleapis.com/css?family=Niramit|PT+Serif)
+; 
+body {
+    background-color: rgba(242,255,245,.8) ;
+    text-align: center; 
+    background-size: cover; 
+  	color: #000;
+  	font-family: 'Niramit', sans-serif;
+
+}
+ #tagline {
+ 	font-weight: normal; 
+ 	text-transform: none;
+ }
+
+h1 { 
+	font-family: 'PT Serif', serif; 
+	font-size:35px;
+  line-height: 1.5em;
+  margin: 2em;
+	font-weight: bold;
+  text-transform: uppercase;
+
+}
+
+p { 
+    font-size: 22px;
+    line-height: 1.5em;
+    margin: 2em;
+    background-color: rgba(242,255,245,.8) ;
+    text-align: left; 
+    background-size: cover; 
+  	color: #000;
+  	font-family: 'Niramit', sans-serif;
+}
