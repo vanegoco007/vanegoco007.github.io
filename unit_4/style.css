@@ -1,5 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Niramit|PT+Serif)
-; 
+@import url('https://fonts.googleapis.com/css?family=Niramit|PT+Serif');
+
 body {
     background-color: rgb(242,255,245);
     text-align: center; 
@@ -10,6 +10,7 @@ body {
 }
  #tagline {
  	font-weight: normal; 
+  text-align: center; 
  	text-transform: none;
  }
 
