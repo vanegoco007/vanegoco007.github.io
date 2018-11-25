@@ -14,12 +14,14 @@ body {
  }
 
 h1 { 
-	font-family: 'PT Serif', serif; 
+	text-transform: uppercase;
+  text-align: center; 
+  font-family: 'PT Serif', serif; 
 	font-size:35px;
   line-height: 1.5em;
   margin: 2em;
 	font-weight: bold;
-  text-transform: uppercase;
+
 
 }
 
