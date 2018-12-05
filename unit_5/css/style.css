@@ -47,14 +47,15 @@ section {
 
 h1 { 
   font-family: 'PT Serif', serif; 
-  font-weight: left;
+  font-weight: bold;
   text-transform: uppercase;
-  text-align: center; 
+  text-align: left; 
 }
 
 body {
     text-align: left; 
     font-family: 'Niramit', sans-serif;
+    font-weight: bold;
 }
 
 
